@@ -1,0 +1,4 @@
+class MyDlg {
+  private:
+    MyDlg() {}
+};

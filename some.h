@@ -1,0 +1,4 @@
+class Something {
+public:
+  Something() {}
+};
